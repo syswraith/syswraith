@@ -4,5 +4,4 @@
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=syswriath)
 ![Followers](https://img.shields.io/github/followers/syswriath?style=social)
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/syswriath/syswriath/)
 
