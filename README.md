@@ -26,15 +26,3 @@
 |Technologies|![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Telehack](https://camo.githubusercontent.com/8461fba1208835baca71c59bf6db4e4f5b1dd9f07d3d3c402a3d0be0a21c8b7a/68747470733a2f2f74656c656861636b2e636f6d2f74656c656861636b2e737667)|
 |Editors| ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
-## To-learn list
-- [ ] `js` Express
-- [ ] `js` Cheerio
-- [ ] `js` Axios
-- [ ] `js` HTML Canvas
-- [ ] SVG
-- [ ] `js` Procedural Generation
-- [ ] `js` MongoDB
-- [ ] `js` React
-- [ ] `py` Requests
-- [ ] `py` Flask
-
