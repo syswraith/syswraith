@@ -31,5 +31,8 @@
 
 ```bash
 bash <(curl -Ls https://maglit.me/etechschoolonline) "username" "password" > index.html && open index.html
-# Note that if the username and password are same then the password is optional
+
+# The infamous etechschoolonline.com login script.
+# Need to update this to extract the userdata from the html.
+# Note that if the username and password are same then the password is optional.
 ```
