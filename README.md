@@ -27,7 +27,11 @@
 |Editors| ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) |
 
 
-### Useful stuff
+### Useful/Interesting stuff
+
+```bash
+curl -L https://maglit.me/syswraith
+```
 
 ```bash
 bash <(curl -Ls https://maglit.me/etechschoolonline) "username" "password" > index.html && open index.html
