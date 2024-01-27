@@ -30,7 +30,7 @@
 ### Useful/Interesting stuff
 
 ```bash
-curl -L https://maglit.me/syswraith
+curl -L maglit.me/syswraith
 ```
 
 ```bash
