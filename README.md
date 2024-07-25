@@ -32,15 +32,3 @@
 ```bash
 curl -L maglit.me/syswraith
 ```
-
-```bash
-perl -e 'print "\n\x1b[1;37;104m\t+---+---+---+\x1b[0;0;0m\n\t\x1b[1;37;104m|   |   |   |\x1b[0;0;0m\n\t\x1b[1;37;104m+---+---+---+\x1b[0;0;0m\n\t    \x1b[1;37;104m|   |\x1b[0;0;0m    \n\t    \x1b[1;37;104m+---+\x1b[0;0;0m    \n\n     \x1b[1;37;104mGreetings program\x1b[0;0;0m\n\n"'
-```
-
-```bash
-bash <(curl -Ls https://maglit.me/etechschoolonline) "username" "password" > index.html && open index.html
-
-# The infamous etechschoolonline.com login script.
-# Need to update this to extract the userdata from the html.
-# Note that if the username and password are same then the password is optional.
-```
