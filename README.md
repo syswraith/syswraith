@@ -56,4 +56,4 @@ curl -L maglit.me/syswraith
 ```
 
 ### Current streaks
-[![GitHub Streak](https://streak-stats.demolab.com/?user=syswraith)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=syswraith&theme=gruvbox&border_radius=4.4&hide_total_contributions=true)](https://git.io/streak-stats)
