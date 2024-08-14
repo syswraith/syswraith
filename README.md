@@ -51,9 +51,9 @@ hmbe j nfu zpv :)
 ### Editors
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) 
 
-### Useful/Interesting stuff
-
 ```bash
 curl -L maglit.me/syswraith
 ```
 
+### Current streaks
+[![GitHub Streak](https://streak-stats.demolab.com/?user=syswraith)](https://git.io/streak-stats)
