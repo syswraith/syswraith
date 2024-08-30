@@ -51,9 +51,11 @@ hmbe j nfu zpv :)
 ### Editors
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) 
 
-```bash
-curl -L maglit.me/syswraith
-```
 
 ### Color palette 
 ![Gruvbox-dark](https://i.imgur.com/GOW2qiQ.png)
+
+
+```bash
+curl -L maglit.me/syswraith
+```
