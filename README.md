@@ -50,11 +50,13 @@ hmbe j nfu zpv :)
 
 
 ### Editors
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) 
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
 
 ```bash
 curl -L maglit.me/syswraith
 ```
 
-### Color palette 
-![Gruvbox-dark](https://i.imgur.com/GOW2qiQ.png)
+### Color palette: Gruvbox Dark
+![Gruvbox-dark](https://camo.githubusercontent.com/3dfae3155f4ad996e105584d9ff884ad9b8a93c20b4c2eaad0ce226c680e58e2/687474703a2f2f692e696d6775722e636f6d2f776136363678672e706e67)
