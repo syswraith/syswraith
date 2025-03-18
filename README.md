@@ -48,7 +48,7 @@ bio-digital jazz man!
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
 
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1390998" style='border:none;'></iframe>
+![TryHackMe](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1390998)
 
 ### Editors
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
