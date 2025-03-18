@@ -49,6 +49,7 @@ bio-digital jazz man!
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/syswraith.png" alt="TryHackMe" />
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=syswraith)
 
 ### Editors
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
