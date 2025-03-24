@@ -57,5 +57,7 @@ bio-digital jazz man!
 curl -L maglit.me/syswraith
 ```
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/syswraith.png" alt="Your Image Badge" />
+
 ### Color palette: Gruvbox Dark
 ![Gruvbox-dark](https://camo.githubusercontent.com/3dfae3155f4ad996e105584d9ff884ad9b8a93c20b4c2eaad0ce226c680e58e2/687474703a2f2f692e696d6775722e636f6d2f776136363678672e706e67)
