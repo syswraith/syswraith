@@ -61,3 +61,9 @@ curl -L maglit.me/syswraith
 
 ### Color palette: Gruvbox Dark
 ![Gruvbox-dark](https://camo.githubusercontent.com/3dfae3155f4ad996e105584d9ff884ad9b8a93c20b4c2eaad0ce226c680e58e2/687474703a2f2f692e696d6775722e636f6d2f776136363678672e706e67)
+
+### Other affiliations
+![CLI](https://telehack.com/cmd.svg)
+![Glider](https://web.badges.world/badges/memes/hackergliderbutton_80x15.png)
+![Kopimi](https://kopimi.com/badges/c_mini_34.gif)
+![Vim heretic](https://www.vim.org/images/vim_on_fire.gif)
