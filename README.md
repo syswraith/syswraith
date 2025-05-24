@@ -68,3 +68,5 @@ curl -L maglit.me/syswraith
 ![Glider](https://web.badges.world/badges/memes/hackergliderbutton_80x15.png)
 ![Kopimi](https://kopimi.com/badges/c_mini_34.gif)
 ![Vim heretic](https://www.vim.org/images/vim_on_fire.gif)
+
+check out the website, its much cooler https://syswraith.github.io
