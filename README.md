@@ -70,3 +70,4 @@ curl -L maglit.me/syswraith
 ![Vim heretic](https://www.vim.org/images/vim_on_fire.gif)
 
 check out the website, its much cooler https://syswraith.github.io
+and the blog https://syswraith.github.io/blog
