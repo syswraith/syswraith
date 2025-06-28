@@ -31,6 +31,7 @@ bio-digital jazz man!
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)
 ![TeleBASIC](https://telehack.com/telebasic.svg)
 
+
 ### Technologies
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
@@ -48,20 +49,20 @@ bio-digital jazz man!
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/syswraith.png" alt="Your Image Badge" />
-
-### Editors
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/syswraith.png" alt="Your Image Badge" />
+
+### Pentesting suite
+| [<img src='https://www.kali.org/tools/john/images/john-logo.svg' height='100px'>](https://www.kali.org/tools/john/) <br> **[John the Ripper](https://www.kali.org/tools/john/)** | [<img src='https://www.kali.org/tools/hydra/images/hydra-logo.svg' height='100px'>](https://www.kali.org/tools/hydra/) <br> **[Hydra](https://www.kali.org/tools/hydra/)** | [<img src='https://www.kali.org/tools/ffuf/images/ffuf-logo.svg' height='100px'>](https://www.kali.org/tools/ffuf/) <br> **[FFUF](https://www.kali.org/tools/ffuf/)** | [<img src='https://www.kali.org/tools/gobuster/images/gobuster-logo.svg' height='100px'>](https://www.kali.org/tools/gobuster/) <br> **[Gobuster](https://www.kali.org/tools/gobuster/)** | [<img src='https://www.kali.org/tools/hashcat/images/hashcat-logo.svg' height='100px'>](https://www.kali.org/tools/hashcat/) <br> **[Hashcat](https://www.kali.org/tools/hashcat/)** | [<img src='https://www.kali.org/tools/wpscan/images/wpscan-logo.svg' height='100px'>](https://www.kali.org/tools/wpscan/) <br> **[WPScan](https://www.kali.org/tools/wpscan/)** |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ```bash
 curl -L maglit.me/syswraith
 ```
 
-### Color palette: Gruvbox Dark
-![Gruvbox-dark](https://camo.githubusercontent.com/3dfae3155f4ad996e105584d9ff884ad9b8a93c20b4c2eaad0ce226c680e58e2/687474703a2f2f692e696d6775722e636f6d2f776136363678672e706e67)
 
 ### Other affiliations
 ![CLI](https://telehack.com/cmd.svg)
@@ -70,4 +71,5 @@ curl -L maglit.me/syswraith
 ![Vim heretic](https://www.vim.org/images/vim_on_fire.gif)
 
 check out the website, its much cooler https://syswraith.github.io
+ 
 and the blog https://syswraith.github.io/blog
