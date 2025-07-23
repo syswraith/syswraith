@@ -19,7 +19,7 @@
 bio-digital jazz man!
 ```
 
-Here's my [resume](https://raw.githubusercontent.com/syswraith/syswraith.github.io/refs/heads/main/resume.pdf)
+## Here's my [resume](https://raw.githubusercontent.com/syswraith/syswraith.github.io/refs/heads/main/resume.pdf)
 
 ### Languages
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
