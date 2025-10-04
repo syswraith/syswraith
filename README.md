@@ -66,6 +66,6 @@ bio-digital jazz man!
 ![Kopimi](https://kopimi.com/badges/c_mini_34.gif)
 ![Vim heretic](https://www.vim.org/images/vim_on_fire.gif)
 
-check out the website, its much cooler https://syswraith.github.io
+check out the website, its much cooler https://syswraith.com
  
-and the blog https://syswraith.github.io/blog
+and the blog https://syswraith.com/blog
