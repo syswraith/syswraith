@@ -24,7 +24,7 @@ bio-digital jazz man!
 ![CSS](https://img.shields.io/badge/CSS-blue?&style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
@@ -32,11 +32,12 @@ bio-digital jazz man!
 ![TeleBASIC](https://telehack.com/telebasic.svg)
 
 
-### Technologies
+### Other stuff
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) 
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) 
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) 
+![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Gnome](https://img.shields.io/badge/gnome-blue?style=for-the-badge&logo=gnome&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
@@ -49,15 +50,25 @@ bio-digital jazz man!
 ![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
+![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+
+
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/syswraith.png" alt="Your Image Badge" />
 
+
 ### Pentesting suite
-| [<img src='https://www.kali.org/tools/john/images/john-logo.svg' height='100px'>](https://www.kali.org/tools/john/) <br> **[John the Ripper](https://www.kali.org/tools/john/)** | [<img src='https://www.kali.org/tools/hydra/images/hydra-logo.svg' height='100px'>](https://www.kali.org/tools/hydra/) <br> **[Hydra](https://www.kali.org/tools/hydra/)** | [<img src='https://www.kali.org/tools/ffuf/images/ffuf-logo.svg' height='100px'>](https://www.kali.org/tools/ffuf/) <br> **[FFUF](https://www.kali.org/tools/ffuf/)** | [<img src='https://www.kali.org/tools/gobuster/images/gobuster-logo.svg' height='100px'>](https://www.kali.org/tools/gobuster/) <br> **[Gobuster](https://www.kali.org/tools/gobuster/)** | [<img src='https://www.kali.org/tools/hashcat/images/hashcat-logo.svg' height='100px'>](https://www.kali.org/tools/hashcat/) <br> **[Hashcat](https://www.kali.org/tools/hashcat/)** | [<img src='https://www.kali.org/tools/wpscan/images/wpscan-logo.svg' height='100px'>](https://www.kali.org/tools/wpscan/) <br> **[WPScan](https://www.kali.org/tools/wpscan/)** |
-|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| <a href="https://www.kali.org/tools/john/"><img src="https://www.kali.org/tools/john/images/john-logo.svg" height="100px"></a><br>John the Ripper | <a href="https://www.kali.org/tools/hydra/"><img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" height="100px"></a><br>Hydra | <a href="https://www.kali.org/tools/ffuf/"><img src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" height="100px"></a><br>FFUF |
+|---|---|---|
+| <a href="https://www.kali.org/tools/gobuster/"><img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" height="100px"></a><br>Gobuster | <a href="https://www.kali.org/tools/hashcat/"><img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" height="100px"></a><br>Hashcat | <a href="https://www.kali.org/tools/wpscan/"><img src="https://www.kali.org/tools/wpscan/images/wpscan-logo.svg" height="100px"></a><br>WPScan |
+| <a href="https://nmap.org/"><img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" height="100px"></a><br>Nmap | <a href="https://www.metasploit.com/"><img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" height="100px"></a><br>Metasploit | <a href="https://portswigger.net/burp"><img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" height="100px"></a><br>Burp Suite |
+
 
 
 ### Other affiliations
