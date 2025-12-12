@@ -60,7 +60,7 @@ bio-digital jazz man!
 
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/syswraith.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/syswraith.png" alt="TryHackMe" />
 
 
 ### Pentesting suite
