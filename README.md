@@ -59,6 +59,8 @@ bio-digital jazz man!
 ![Wikipedia](https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Kdenlive](https://img.shields.io/badge/Kdenlive-ffffff?style=for-the-badge&logo=kdenlive)
+![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=kdenlive)
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/syswraith.png?t=12122025" alt="TryHackMe" />
 
