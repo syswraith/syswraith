@@ -62,7 +62,7 @@ bio-digital jazz man!
 ![Kdenlive](https://img.shields.io/badge/Kdenlive-ffffff?style=for-the-badge&logo=kdenlive)
 ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=kdenlive)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/syswraith.png?t=12122025" alt="TryHackMe" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/syswraith.png?t=28012026" alt="TryHackMe" />
 
 ### Pentesting suite
 
