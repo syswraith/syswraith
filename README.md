@@ -74,6 +74,8 @@ bio-digital jazz man!
 
 ### Other affiliations
 
+<img src="https://kaworu.love/seele.gif" height="300px"/>
+
 ![CLI](https://telehack.com/cmd.svg)
 ![Glider](https://web.badges.world/badges/memes/hackergliderbutton_80x15.png)
 ![Kopimi](https://kopimi.com/badges/c_mini_34.gif)
