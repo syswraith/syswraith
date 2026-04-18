@@ -62,7 +62,6 @@ bio-digital jazz man!
 ![Kdenlive](https://img.shields.io/badge/Kdenlive-ffffff?style=for-the-badge&logo=kdenlive)
 ![Audacity](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=kdenlive)
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/syswraith.png?t=28012026" alt="TryHackMe" />
 
 ### Pentesting suite
 
@@ -72,9 +71,8 @@ bio-digital jazz man!
 | <a href="https://www.kali.org/tools/wpscan/"><img src="https://www.kali.org/tools/wpscan/images/wpscan-logo.svg" height="100px"></a><br>WPScan | <a href="https://nmap.org/"><img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" height="100px"></a><br>Nmap | <a href="https://www.kali.org/tools/metasploit-framework/"><img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" height="100px"></a><br>Metasploit |
 | <a href="https://portswigger.net/burp"><img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" height="100px"></a><br>Burp Suite | <a href="https://www.kali.org/tools/ghidra/"><img src="https://www.kali.org/tools/ghidra/images/ghidra-logo.svg" height="100px"></a><br>Ghidra | <a href="https://www.kali.org/tools/wireshark/"><img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" height="100px"></a><br>Wireshark |
 
-### Other affiliations
 
-<img src="https://kaworu.love/seele.gif" height="300px"/>
+### Other affiliations
 
 ![CLI](https://telehack.com/cmd.svg)
 ![Glider](http://www.catb.org/hacker-emblem/hacker.png)
