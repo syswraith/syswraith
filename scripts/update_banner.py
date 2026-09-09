@@ -1,39 +1,51 @@
 from pathlib import Path
 import random
-import re
 import shutil
+import subprocess
 
+BOARD = "YOUR_BOARD_URL"
+TMP = Path("/tmp/pinterest")
+BANNER = Path("banner.jpg")
 README = Path("README.md")
-BANNERS = Path("banners")
 
-IMAGE_EXTENSIONS = {".jpg", ".jpeg", ".png", ".webp"}
+shutil.rmtree(TMP, ignore_errors=True)
+TMP.mkdir()
+
+subprocess.run(
+    ["gallery-dl", "-D", str(TMP), BOARD],
+    check=True,
+)
 
 images = [
-    p for p in BANNERS.rglob("*")
-    if p.suffix.lower() in IMAGE_EXTENSIONS
+    p for p in TMP.rglob("*")
+    if p.suffix.lower() in {".jpg", ".jpeg", ".png", ".webp"}
 ]
 
 if not images:
     raise SystemExit("No images found")
 
-image = random.choice(images)
+source = random.choice(images)
 
-target = BANNERS / image.name
+shutil.copyfile(source, BANNER)
 
-if image != target:
-    shutil.copy2(image, target)
+print(f"Using: {source}")
 
-banner = f"""<!-- BANNER_START -->
-<img src="{target}" width="100%" />
-<!-- BANNER_END -->"""
+# Keep exactly one banner at the top of README.
+content = README.read_text()
 
-readme = README.read_text()
+marker_start = "<!-- BANNER_START -->"
+marker_end = "<!-- BANNER_END -->"
 
-updated = re.sub(
-    r"<!-- BANNER_START -->.*?<!-- BANNER_END -->",
-    banner,
-    readme,
-    flags=re.DOTALL,
-)
+banner = f"""{marker_start}
+<img src="banner.jpg" width="100%">
+{marker_end}"""
 
-README.write_text(updated)
+if marker_start in content and marker_end in content:
+    start = content.index(marker_start)
+    end = content.index(marker_end) + len(marker_end)
+
+    content = content[:start] + banner + content[end:]
+else:
+    content = banner + "\n\n" + content
+
+README.write_text(content)
