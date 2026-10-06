@@ -1,9 +1,10 @@
 import os
 import random
 import subprocess
+import sys
 from pathlib import Path
 
-BOARD = os.environ.get("PINTEREST_BOARD_URL")
+BOARD = (os.environ.get("PINTEREST_BOARD_URL") or "").strip()
 if not BOARD:
     raise SystemExit("PINTEREST_BOARD_URL is not set")
 COUNT = int(os.environ.get("BANNER_COUNT", "1"))
@@ -15,10 +16,13 @@ IMAGE_EXT = {".jpg", ".jpeg", ".png", ".webp", ".gif"}
 
 result = subprocess.run(
     ["gallery-dl", "-g", BOARD],
-    check=True,
     capture_output=True,
     text=True,
 )
+
+if result.returncode:
+    sys.stderr.write(result.stderr)
+    raise SystemExit(result.returncode)
 
 urls = [
     line.strip()
