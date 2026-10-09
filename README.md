@@ -1,5 +1,5 @@
 <!-- BANNER_START -->
-<img src="https://i.pinimg.com/originals/bf/dc/2a/bfdc2a4f9d7e0b8b7a8a1e94cb71a106.jpg" alt="pinterest banner" width="100%">
+<img src="https://i.pinimg.com/originals/c6/92/11/c69211ae836eb9ea3dd5a887feeec6c0.jpg" alt="pinterest banner" width="100%">
 <!-- BANNER_END -->
 
 ```js
